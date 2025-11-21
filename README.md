@@ -45,25 +45,11 @@ Includes login authentication, player management, team management, and persisten
 ### 🔐 Login Screen
 ![Login Screen](screenshots/login.png)
 
-### 🏠 Main Menu
-![Main Menu](screenshots/mainmenu.png)
-
-### 👥 Display Players
-![Player List](screenshots/playerlist.png)
-
 ### ➕ Add Player
-![Add Player](screenshots/addplayer.png)
-
-### 🔍 Search Player
-![Search Player](screenshots/searchplayer.png)
+![Add Player](screenshots/add_player.png)
 
 ### 🗑️ Delete Player
-![Delete Player](screenshots/deleteplayer.png)
-
-### 🏆 Manage Teams
-![Manage Teams](screenshots/teams.png)
-
-> 📌 Add your actual screenshots inside: `Upcountry-Warriors/screenshots/`
+![Delete Player](screenshots/delete_player.png)
 
 ---
 
