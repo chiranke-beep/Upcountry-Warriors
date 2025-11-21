@@ -60,4 +60,37 @@ Includes login authentication, player management, team management, and persisten
 
 ---
 
-## 📂 Folder Structure
+## ▶️ How to Run the Program
+
+### **Using g++ (Terminal)**
+- g++ main.cpp -o warriors
+- ./warriors
+
+### **Using Visual Studio / CodeBlocks**
+- Open project  
+- Build  
+- Run  
+
+---
+
+## 📝 Sample Login Credentials
+- Username: chiran
+- Password: 123
+
+---
+
+## 🚧 Future Enhancements
+- Convert to dynamic vectors instead of fixed arrays  
+- Replace `players.txt` with JSON or a database  
+- Add update/edit player feature  
+- Improve UI using ncurses or GUI  
+- Add match history & statistics module  
+
+---
+
+## 👨‍💻 Author
+**Chiran Keshawa Weerasekara**  
+Software Engineering Student  
+📧 Email: *chiranke@gmail.com*
+
+
