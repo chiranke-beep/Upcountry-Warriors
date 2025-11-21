@@ -93,4 +93,8 @@ Includes login authentication, player management, team management, and persisten
 Software Engineering Student  
 📧 Email: *chiranke@gmail.com*
 
+## ⭐ Show Your Support
+
+- If you like this project, please ⭐ the repository!
+
 
